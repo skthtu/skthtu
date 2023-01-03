@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/skurita/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/skurita/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/skurita/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/skurita/discussion/light)
