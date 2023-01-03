@@ -1,6 +1,7 @@
 ### こんにちは 👋
 #### ・コンピュータビジョンの研究をしています。
-#### ・Kaggleアカウント: [@skthtu](https://www.kaggle.com/skthtu)
+#### ・Kaggleアカウント: [@skthtu](https://www.kaggle.com/skthtu) 
+![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/skthtu)
 #### ・Kaggleでは自然言語処理のコンペにも参加しています。
 
 ### Kaggle
