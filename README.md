@@ -1,7 +1,7 @@
 ### こんにちは 👋
 #### ・北海道大学でコンピュータビジョンの研究をしています。
 #### ・Kaggleアカウント: [@skthtu](https://www.kaggle.com/skthtu) <!--[your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/skthtu)-->
-#### ・Kaggleでは自然言語処理のコンペにも参加しています。
+#### ・Kaggleではコンピュータビジョンや自然言語処理のコンペに参加しています。
 
  <!--
 ### Kaggle
