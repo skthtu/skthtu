@@ -1,5 +1,5 @@
 ### Hi 👋
-#### ・I am doing research on computer vision at Hokkaido University, Japan.
+#### ・I am doing research on vision and language at Hokkaido University, Japan.
 #### ・Kaggle: [@skthtu](https://www.kaggle.com/skthtu) <!--[your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/skthtu)-->
 #### ・I participate in computer vision and natural language processing competitions on Kaggle.
 
