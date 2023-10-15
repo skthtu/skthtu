@@ -4,6 +4,9 @@
 #### ・I participate in computer vision and natural language processing competitions on Kaggle.
 #### ・Kaggle: [@skthtu](https://www.kaggle.com/skthtu) (https://road-to-kaggle-grandmaster.vercel.app/api/simple/skthtu)
 
+![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/skthtu/competition)
+![light version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/skthtu/competition/light)
+
 
 ### Kaggle
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/skthtu/competition)
