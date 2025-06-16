@@ -2,7 +2,7 @@
 
 #### ・I am doing research on vision and language at Hokkaido University, Japan.
 
-#### ・Linked In: [Link]([https://sites.google.com/view/skurita/home?authuser=0](https://jp.linkedin.com/in/skurita)
+#### ・Linked In: [Link][https://sites.google.com/view/skurita/home?authuser=0](https://jp.linkedin.com/in/skurita]
 
 #### ・I participate in computer vision and natural language processing competitions on international academic conferences and Kaggle.
 
