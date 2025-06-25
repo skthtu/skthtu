@@ -1,6 +1,5 @@
 ### Hi 👋
 
-#### ・I am doing research on vision and language at Hokkaido University, Japan.
 
 #### ・LinkedIn: [skurita](https://jp.linkedin.com/in/skurita)
 
