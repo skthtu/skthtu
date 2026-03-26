@@ -1,8 +1,5 @@
 ### Hi 👋
 
-
-#### ・LinkedIn: [skurita](https://jp.linkedin.com/in/skurita)
-
 #### ・Kaggle: [@skthtu](https://www.kaggle.com/skthtu)
 
 #### ・Atcoder: [@skthtu](https://atcoder.jp/users/skthtu)  
